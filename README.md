@@ -1,7 +1,22 @@
 Twinkle Stars Baby and Toddler Groups
 Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Meath to join a baby, a toddler, or a baby and toddler group. It will be targeted towards parents or caregivers who are looking to socialise their babies and toddlers, and who would also like to meet other parents or caregivers. The site will be useful for parents and cargivers to see when they can join the classes and where the classes are located.
 
-Responsice Mockup
+Responsive Mockup
+
+User Experience (UX)
+Visitor Goals
+As a visitor, I want to understand the main purpose of the site.
+As a visitor, I want to be able to navigate easily around the site and find the information I'm looking for such as timetables and class location.
+As a visitor, I want to find information on the classes that are offered.
+As a visitor, I want to be able to easily sign-up to classes.
+As a visitor, I want to be able to easily get in contact with the organisation who runs the classes with any questions.
+
+Design
+Colour Scheme
+Typography
+Imagery
+
+Wireframes
 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
@@ -43,11 +58,29 @@ The Sign Up Page
 This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
 Sign Up
 
+Technologies Used
+Languages Used
 
-**Anything more?**
+Frameworks, Libraries & Progrmas Used
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+Testing
 
----
+Testing User Stories from User Experience Sections
+Visitor Goals
 
-Happy coding!
+Further Testing
+
+Known Bugs
+
+Deployment
+GitHub Pages
+
+Credits
+
+Code
+
+Content
+
+Media
+
+Acknowledgements
