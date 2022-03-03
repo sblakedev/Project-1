@@ -82,4 +82,10 @@ Sign Up
 
 #### Media
 
+#### Design
+* https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=FF9800&secondary.color=FFF176
+* https://xd.adobe.com/ideas/principles/web-design/ux-of-color-palettes/
+* https://uxdesign.cc/how-to-use-color-in-ux-design-9ba6db4807d5
+* https://mycolor.space/?hex=%23EEE78A&sub=1
+* https://www.toptal.com/designers/ux/color-in-ux
 #### Acknowledgements
