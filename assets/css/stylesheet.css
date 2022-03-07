@@ -4,3 +4,33 @@ body {
     font-family: Fredoka, Helvetica, sans-serif;
     font-weight: 300;
 }
+
+#logo {
+    font-size: 200%;
+    letter-spacing: 1px;
+    margin-left: 20px;
+    float: left;
+}
+
+#menu {
+    font-size: 125%;
+    letter-spacing: 1px;
+}
+
+#menu li {
+    margin-right: 20px;
+    display: inline;
+    float: right;
+    list-style-type: none;
+}
+
+#hero-image {
+    height: 300px;
+    width: 100%;
+    max-height: 100%;
+    background: url(../images/pexels-william-fortunato-6392805.jpg) no-repeat ;
+    background-size: cover;
+    background-position: 100% 25%;
+    overflow: hidden;
+    opacity: 0.5;
+}
