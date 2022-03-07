@@ -3,25 +3,43 @@
 body {
     font-family: Fredoka, Helvetica, sans-serif;
     font-weight: 300;
+    color: black;
 }
 
 #logo {
     font-size: 200%;
     letter-spacing: 1px;
-    margin-left: 20px;
+    margin-left: 10px;
     float: left;
 }
 
 #menu {
-    font-size: 125%;
+    font-size: 150%;
     letter-spacing: 1px;
+    float: right;
+}
+
+#menu, #logo {
+    line-height: 25px;
 }
 
 #menu li {
-    margin-right: 20px;
+    margin-right: 10px;
     display: inline;
-    float: right;
     list-style-type: none;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #393838;
+}
+
+.active {
+    border-bottom: 1px solid #393838;
 }
 
 #hero-image {
@@ -33,4 +51,16 @@ body {
     background-position: 100% 25%;
     overflow: hidden;
     opacity: 0.5;
+    animation-name: hero-fade-in;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 0.5;
+    }
 }
