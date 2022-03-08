@@ -81,3 +81,7 @@ ul {
         opacity: 0.5;
     }
 }
+
+footer ul {
+    list-style-type: none;
+}
