@@ -84,6 +84,22 @@ ul {
     }
 }
 
+#our-classes-center {
+    text-align: center;
+}
+
+#baby-class-image {
+    
+}
+
+#baby-class-right {
+    text-align: right;
+}
+
+#toddler-class-left {
+    text-align: left;
+}
+
 footer {
     height: 75px;
     width: 100%;
