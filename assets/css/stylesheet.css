@@ -84,20 +84,29 @@ ul {
     }
 }
 
-#our-classes-center {
-    text-align: center;
+#our-classes {
+    padding-top: 5%;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
-#baby-class-image {
-    
+#baby-class {
+    padding-top: 5%;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
-#baby-class-right {
-    text-align: right;
+#toddler-class {
+    padding-top: 5%;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-bottom: 5%;
 }
 
-#toddler-class-left {
-    text-align: left;
+#location {
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-bottom: 10%;
 }
 
 footer {
