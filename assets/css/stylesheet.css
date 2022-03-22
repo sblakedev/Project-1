@@ -27,7 +27,8 @@ body {
     float: right;
 }
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 25px;
 }
 
@@ -45,7 +46,7 @@ ul {
 
 #menu li:last-child {
     border-right: none;
-  }
+}
 
 #menu a {
     text-decoration: none;
@@ -65,7 +66,7 @@ ul {
     height: 300px;
     width: 100%;
     max-height: 100%;
-    background: url(../images/pexels-william-fortunato-6392805.jpg) no-repeat ;
+    background: url(../images/pexels-william-fortunato-6392805.jpg) no-repeat;
     background-size: cover;
     background-position: 100% 25%;
     overflow: hidden;
@@ -79,6 +80,7 @@ ul {
     from {
         opacity: 0;
     }
+
     to {
         opacity: 0.5;
     }
@@ -114,8 +116,8 @@ footer {
     width: 100%;
     line-height: 75px;
     position: fixed;
-	bottom: 0;
-	right: 0;
+    bottom: 0;
+    right: 0;
 }
 
 #footer-background-color {
@@ -131,7 +133,7 @@ footer {
     margin-left: -27px;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
     float: left;
 }
@@ -144,7 +146,7 @@ footer {
     vertical-align: middle;
 }
 
-footer > p {
+footer>p {
     float: right;
     font-size: small;
     margin-right: 10px;
@@ -153,13 +155,49 @@ footer > p {
     vertical-align: middle;
 }
 
+#timetable {
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+#baby-caption {
+    font-size: 120%;
+    font-weight: 600;
+}
+
+#baby-timetable {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+#toddler-caption {
+    font-size: 120%;
+    font-weight: 600;
+}
+
+#toddler-timetable {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+th, td {
+    text-align: center;
+}
 
 @media screen and (max-width:320px) {
     #logo {
-        font-size:150%;
+        font-size: 150%;
     }
 
-    header > a {
+    header>a {
         display: flex;
         justify-content: center;
     }
@@ -177,6 +215,7 @@ footer > p {
         justify-content: center;
         flex-direction: column;
     }
+
     #hero-image {
         height: 150px;
     }
@@ -200,7 +239,7 @@ footer > p {
         font-size: 125%;
     }
 
-    footer > p {
+    footer>p {
         float: none;
         clear: both;
         text-align: center;
@@ -212,7 +251,7 @@ footer > p {
 }
 
 @media screen and (max-width:631px) {
-    header > a {
+    header>a {
         font-size: 80%;
         display: flex;
         justify-content: center;
