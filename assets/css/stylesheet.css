@@ -153,3 +153,93 @@ footer > p {
     vertical-align: middle;
 }
 
+
+@media screen and (max-width:320px) {
+    #logo {
+        font-size:150%;
+    }
+
+    header > a {
+        display: flex;
+        justify-content: center;
+    }
+
+    #menu {
+        font-size: 80%;
+        display: flex;
+        justify-content: center;
+    }
+
+    #header-background-color {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+    #hero-image {
+        height: 150px;
+    }
+
+    footer {
+        height: 100px;
+        width: 100%;
+        line-height: 50px;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+    }
+
+    .social-networks {
+        font-size: 75%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .social-networks i {
+        font-size: 125%;
+    }
+
+    footer > p {
+        float: none;
+        clear: both;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        margin: 0;
+    }
+
+}
+
+@media screen and (max-width:631px) {
+    header > a {
+        font-size: 80%;
+        display: flex;
+        justify-content: center;
+    }
+
+    #menu {
+        font-size: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    #header-background-color {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    #hero-image {
+        height: 225px;
+        width: 100%;
+        max-height: 100%;
+    }
+
+    .social-networks i {
+        font-size: 100%;
+    }
+
+}
