@@ -184,12 +184,46 @@ footer>p {
     padding-bottom: 10%;
 }
 
-table, th, td {
+table,
+th,
+td {
     border: 1px solid black;
-  }
+}
 
-th, td {
+th,
+td {
     text-align: center;
+}
+
+.form-section {
+    display: flex;
+    justify-content: center;
+    clear: left;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+    padding-bottom: 10%;
+}
+
+.form-section>h2 {
+    text-align: center;
+}
+
+#form-div {
+    color: #3D151F;
+    background-color: #ff94ad;
+    max-width: 400px;
+    padding: 30px;
+}
+
+.text-input {
+    color: #3D151F;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
 }
 
 @media screen and (max-width:320px) {
@@ -256,6 +290,10 @@ th, td {
         padding-bottom: 40%;
     }
 
+    .form-section {
+        padding-bottom: 40%;
+    }
+
 }
 
 @media screen and (max-width:376px) {
@@ -265,6 +303,10 @@ th, td {
 
     #location {
         padding-bottom: 35%;
+    }
+
+    .form-section {
+        padding-bottom: 30%;
     }
 }
 
@@ -306,6 +348,10 @@ th, td {
     #location {
         padding-bottom: 30%;
     }
+
+    .form-section {
+        padding-bottom: 30%;
+    }
 }
 
 @media screen and (max-width:790px) {
@@ -316,10 +362,18 @@ th, td {
     #location {
         padding-bottom: 20%;
     }
+
+    .form-section {
+        padding-bottom: 20%;
+    }
 }
 
 @media screen and (max-width:1022px) {
     #toddler-timetable {
         padding-bottom: 15%;
+    }
+
+    .form-section {
+        padding-bottom: 10%;
     }
 }
