@@ -252,11 +252,19 @@ th, td {
         padding-bottom: 40%;
     }
 
+    #location {
+        padding-bottom: 40%;
+    }
+
 }
 
 @media screen and (max-width:376px) {
     #toddler-timetable {
         padding-bottom: 30%;
+    }
+
+    #location {
+        padding-bottom: 35%;
     }
 }
 
@@ -295,11 +303,18 @@ th, td {
         padding-bottom: 30%;
     }
 
+    #location {
+        padding-bottom: 30%;
+    }
 }
 
 @media screen and (max-width:790px) {
     #toddler-timetable {
         padding-bottom: 15%;
+    }
+
+    #location {
+        padding-bottom: 20%;
     }
 }
 
