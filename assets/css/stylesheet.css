@@ -254,6 +254,12 @@ th, td {
 
 }
 
+@media screen and (max-width:376px) {
+    #toddler-timetable {
+        padding-bottom: 30%;
+    }
+}
+
 @media screen and (max-width:631px) {
     header>a {
         font-size: 80%;
