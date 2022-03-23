@@ -111,6 +111,10 @@ ul {
     padding-bottom: 10%;
 }
 
+.iframe-location {
+    width: 100%;
+}
+
 footer {
     height: 75px;
     width: 100%;
