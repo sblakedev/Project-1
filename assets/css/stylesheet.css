@@ -66,7 +66,7 @@ ul {
     height: 300px;
     width: 100%;
     max-height: 100%;
-    background: url(../images/pexels-william-fortunato-6392805.jpg) no-repeat;
+    background: url(../images/pexels-william-fortunato-6392805.webp) no-repeat;
     background-size: cover;
     background-position: 100% 25%;
     overflow: hidden;
@@ -248,6 +248,10 @@ th, td {
         margin: 0;
     }
 
+    #toddler-timetable {
+        padding-bottom: 40%;
+    }
+
 }
 
 @media screen and (max-width:631px) {
@@ -281,4 +285,20 @@ th, td {
         font-size: 100%;
     }
 
+    #toddler-timetable {
+        padding-bottom: 30%;
+    }
+
+}
+
+@media screen and (max-width:790px) {
+    #toddler-timetable {
+        padding-bottom: 15%;
+    }
+}
+
+@media screen and (max-width:1022px) {
+    #toddler-timetable {
+        padding-bottom: 15%;
+    }
 }
