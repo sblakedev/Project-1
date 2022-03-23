@@ -18,12 +18,13 @@ Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Me
 #### Design
 
 * Colour Scheme
-  * The two main colours used are Yellow and Orange. Yellow was chosen as it represents cheerfulness and friendliness. Orange was chosen as it represents playfulness and energy. These are the emotions that the classes hope to evoke so are ideal to reflect in the UX.
+  * The two main colours used are Green and Pink. Yellow was chosen as it represents stimulation and comfort which are the values that the classes hope to evoke and are ideal to reflect in the UX.. Pink was chosen as it compliments Green.
 * Typography
-  * The something font is the main font used throughout the website with Sans Serif as the fallback font in case the font isn't being imported to the site correctly.
+  * The Fredoka font is the main font used throughout the website with Sans Serif as the fallback font in case the font isn't being imported to the site correctly. It is clean, simple and easy to read.
 * Imagery
-  * The large hero imaage is designed to catch the user's attention and give an idea of what the website is about.
+  * The large hero image is one of a man and child playing which reflects the aim of the classes that are advertised on the website.
 * Wireframes
+[![Initial Wireframe](..assets/images/PortfolioProject1Wireframe.pdf)
 
 ### Features
 
@@ -39,26 +40,30 @@ It is fully responsive.
 The header features the hero image.
 
 * The Classes Section
-The classes section describes the three different group classes available.
+The classes section describes the two group classes available.
 
 * The Location Section
-The location section features a Google Maps image pinpointing the location of Twinkle Stars.
+The location section features a Google Maps image showing the location of Twinkle Stars.
 
 * The Footer
-The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
+The footer section includes links to the relevant social media sites for Twinkle Stars. The links will open to a new tab to allow easy navigation for the user.
 The footer is valuable to the user as it encourages them to keep connected via social media
 
 * Timetable
+The timetable page has a clear table showing what time the classes are running and on which day.
 
 * The Sign Up Page
-This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
-Sign Up
+This page will allow the user to sign up for either a baby class or a toddler class. The user will be able to pick one or more days to sign up to.
 
 ### Technologies Used
 
 #### Languages Used
+*HTML5
+*CSS3
 
 #### Frameworks, Libraries & Progrmas Used
+1. Google Fonts - This was used to import the 'Fredoka' font into the style.css file which is used on all pages throughout the project.
+2. Font Awesome - This was used on all pages throughout the website to add icons for social media links and on the header.
 
 ### Testing
 
