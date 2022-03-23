@@ -226,6 +226,89 @@ td {
     border-radius: 2px;
 }
 
+@media screen and (max-width:1022px) {
+    #toddler-timetable {
+        padding-bottom: 15%;
+    }
+
+    .form-section {
+        padding-bottom: 10%;
+    }
+}
+
+@media screen and (max-width:790px) {
+    #toddler-timetable {
+        padding-bottom: 15%;
+    }
+
+    #location {
+        padding-bottom: 20%;
+    }
+
+    .form-section {
+        padding-bottom: 20%;
+    }
+}
+
+@media screen and (max-width:631px) {
+    header>a {
+        font-size: 80%;
+        display: flex;
+        justify-content: center;
+    }
+
+    #menu {
+        font-size: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    #header-background-color {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    #hero-image {
+        height: 225px;
+        width: 100%;
+        max-height: 100%;
+    }
+
+    .social-networks i {
+        font-size: 100%;
+    }
+
+    #toddler-timetable {
+        padding-bottom: 30%;
+    }
+
+    #location {
+        padding-bottom: 30%;
+    }
+
+    .form-section {
+        padding-bottom: 30%;
+    }
+}
+
+@media screen and (max-width:376px) {
+    #toddler-timetable {
+        padding-bottom: 40%;
+    }
+
+    #location {
+        padding-bottom: 40%;
+    }
+
+    .form-section {
+        padding-bottom: 40%;
+    }
+}
+
+
 @media screen and (max-width:320px) {
     #logo {
         font-size: 150%;
@@ -283,7 +366,7 @@ td {
     }
 
     #toddler-timetable {
-        padding-bottom: 40%;
+        padding-bottom: 50%;
     }
 
     #location {
@@ -294,86 +377,4 @@ td {
         padding-bottom: 40%;
     }
 
-}
-
-@media screen and (max-width:376px) {
-    #toddler-timetable {
-        padding-bottom: 40%;
-    }
-
-    #location {
-        padding-bottom: 40%;
-    }
-
-    .form-section {
-        padding-bottom: 40%;
-    }
-}
-
-@media screen and (max-width:631px) {
-    header>a {
-        font-size: 80%;
-        display: flex;
-        justify-content: center;
-    }
-
-    #menu {
-        font-size: 100%;
-        display: flex;
-        justify-content: center;
-    }
-
-    #header-background-color {
-        padding-top: 5%;
-        padding-bottom: 5%;
-        display: flex;
-        justify-content: center;
-        flex-direction: column;
-    }
-
-    #hero-image {
-        height: 225px;
-        width: 100%;
-        max-height: 100%;
-    }
-
-    .social-networks i {
-        font-size: 100%;
-    }
-
-    #toddler-timetable {
-        padding-bottom: 30%;
-    }
-
-    #location {
-        padding-bottom: 30%;
-    }
-
-    .form-section {
-        padding-bottom: 30%;
-    }
-}
-
-@media screen and (max-width:790px) {
-    #toddler-timetable {
-        padding-bottom: 15%;
-    }
-
-    #location {
-        padding-bottom: 20%;
-    }
-
-    .form-section {
-        padding-bottom: 20%;
-    }
-}
-
-@media screen and (max-width:1022px) {
-    #toddler-timetable {
-        padding-bottom: 15%;
-    }
-
-    .form-section {
-        padding-bottom: 10%;
-    }
 }
