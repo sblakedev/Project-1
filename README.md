@@ -3,7 +3,7 @@
 Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Meath to join a baby, a toddler, or a baby and toddler group. It will be targeted towards parents or caregivers who are looking to socialise their babies and toddlers, and who would also like to meet other parents or caregivers. The site will be useful for parents and cargivers to see when they can join the classes and where the classes are located.
 
 ### Responsive Mockup
-[Responsive Mockup] (assets/images/Twinkle Stars Responsive Mockup.PNG)
+![Responsive Mockup](assets/images/ReadMe_Images/Twinkle Stars Responsive Mockup.PNG)
 
 ### User Experience (UX)
 
@@ -25,13 +25,13 @@ Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Me
 * Imagery
   * The large hero image is one of a man and child playing which reflects the aim of the classes that are advertised on the website.
 * Wireframes
-[Home Page](assets/images/Wireframes/Twinkle Stars Home.png)
-[Timetable](assets/images/Wireframes/Twinkle Stars Timetable.png]
-[Sign Up] (assets/images/Twinkle Stars Sign Up.png)
+![Home Page](assets/images/Wireframes/Twinkle Stars Home.png)
+![Timetable](assets/images/Wireframes/Twinkle Stars Timetable.png]
+![Sign Up] (assets/images/Twinkle Stars Sign Up.png)
 
 ### Features
-*Responsive on all devices sizes.
-*Interactive elements.
+* Responsive on all devices sizes.
+* Interactive elements.
 
 #### Existing Features
 
@@ -63,8 +63,8 @@ This page will allow the user to sign up for either a baby class or a toddler cl
 ### Technologies Used
 
 #### Languages Used
-*HTML5
-*CSS3
+* HTML5
+* CSS3
 
 #### Frameworks, Libraries & Progrmas Used
 1. Google Fonts - This was used to import the 'Fredoka' font into the style.css file which is used on all pages throughout the project.
@@ -74,12 +74,35 @@ This page will allow the user to sign up for either a baby class or a toddler cl
 5. Git - This was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
 ### Testing
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+W3C Markup Validator
+* [Index Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsblakedev.github.io%2FProject-1%2Findex.html)
+* [TimetableResults](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsblakedev.github.io%2FProject-1%2Ftimetable.html)
+* [SignUpResults](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsblakedev.github.io%2FProject-1%2Fsign-up.html)
+* [FormSubmitted](https://validator.w3.org/nu/?doc=https%3A%2F%2Fsblakedev.github.io%2FProject-1%2Fform-submitted.html)
+
+W3C CSS Validator 
+* [Results] (https://jigsaw.w3.org/css-validator/validator)
 
 #### Testing User Stories from User Experience Sections
 
 ### Visitor Goals
+a. As a visitor, I want to understand the main purpose of the site.
+  * Upon entering the site, the hero image suggests that the website is related to parents or caregivers interacting with babies and toddlers.
+b. As a visitor, I want to be able to navigate easily around the site and find the information I'm looking for such as timetables and class location.
+  * I can see there is a page for timetables on the navigation bar. If I scroll down the page, I can see a Google maps image of the location of the class.
+c. As a visitor, I want to find information on the classes that are offered.
+  * Under the hero image is a section with information about what both classes offer.
+d. As a visitor, I want to be able to easily sign-up to classes.
+  * I can see on the navigation bar that there is a sign-up page where I ccan choose which classes and what days to sign up for.
+e. As a visitor, I want to be able to easily get in contact with the organisation who runs the classes with any questions.
+  * I can see that on the footer at the bottom of the page, there are links to the Twinkle Stars social media pages.
 
 #### Further Testing
+* The website was tested on Chrome, Edge and Firefox.
+* The website was tested on a range of devices such as desktop, laptop, Apple iPad, Samsung Galaxy S20, Apple iPhone 12.
+* Family were asked to test the website on their own devices and report back with any bugs.
 
 #### Known Bugs
 
@@ -96,9 +119,10 @@ This page will allow the user to sign up for either a baby class or a toddler cl
 #### Media
 
 #### Design
-* https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=FF9800&secondary.color=FFF176
+* https://material.io/resources/color/#!/?view.left=1&view.right=1&primary.color=9addac&secondary.color=FF94AD
 * https://xd.adobe.com/ideas/principles/web-design/ux-of-color-palettes/
 * https://uxdesign.cc/how-to-use-color-in-ux-design-9ba6db4807d5
 * https://mycolor.space/?hex=%23EEE78A&sub=1
 * https://www.toptal.com/designers/ux/color-in-ux
+* https://coolors.co/contrast-checker/3d151f-9cdeac
 #### Acknowledgements
