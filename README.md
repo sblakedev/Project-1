@@ -3,6 +3,7 @@
 Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Meath to join a baby, a toddler, or a baby and toddler group. It will be targeted towards parents or caregivers who are looking to socialise their babies and toddlers, and who would also like to meet other parents or caregivers. The site will be useful for parents and cargivers to see when they can join the classes and where the classes are located.
 
 ### Responsive Mockup
+[Responsive Mockup] (assets/images/Twinkle Stars Responsive Mockup.PNG)
 
 ### User Experience (UX)
 
@@ -18,15 +19,19 @@ Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Me
 #### Design
 
 * Colour Scheme
-  * The two main colours used are Green and Pink. Yellow was chosen as it represents stimulation and comfort which are the values that the classes hope to evoke and are ideal to reflect in the UX.. Pink was chosen as it compliments Green.
+  * The two main colours used are Green and Pink. Green was chosen as it represents stimulation and comfort which are the values that the classes hope to evoke and are ideal to reflect in the UX. Pink was chosen as it compliments Green.
 * Typography
   * The Fredoka font is the main font used throughout the website with Sans Serif as the fallback font in case the font isn't being imported to the site correctly. It is clean, simple and easy to read.
 * Imagery
   * The large hero image is one of a man and child playing which reflects the aim of the classes that are advertised on the website.
 * Wireframes
-[![Initial Wireframe](..assets/images/PortfolioProject1Wireframe.pdf)
+[Home Page](assets/images/Wireframes/Twinkle Stars Home.png)
+[Timetable](assets/images/Wireframes/Twinkle Stars Timetable.png]
+[Sign Up] (assets/images/Twinkle Stars Sign Up.png)
 
 ### Features
+*Responsive on all devices sizes.
+*Interactive elements.
 
 #### Existing Features
 
@@ -47,7 +52,7 @@ The location section features a Google Maps image showing the location of Twinkl
 
 * The Footer
 The footer section includes links to the relevant social media sites for Twinkle Stars. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social media
+The footer is valuable to the user as it encourages them to keep connected via social media.
 
 * Timetable
 The timetable page has a clear table showing what time the classes are running and on which day.
@@ -64,6 +69,9 @@ This page will allow the user to sign up for either a baby class or a toddler cl
 #### Frameworks, Libraries & Progrmas Used
 1. Google Fonts - This was used to import the 'Fredoka' font into the style.css file which is used on all pages throughout the project.
 2. Font Awesome - This was used on all pages throughout the website to add icons for social media links and on the header.
+3. Balsamiq - This was used to create the wireframes during the initial design phase.
+4. GitHub - This was used to store the projects code after being pushed from Git.
+5. Git - This was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
 ### Testing
 
