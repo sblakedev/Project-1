@@ -25,12 +25,9 @@ Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Me
 * Imagery
   * The large hero image is one of a man and child playing which reflects the aim of the classes that are advertised on the website.
 * Wireframes
-  * Home Page
-[Home Page](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Home.png)
-  * Timetable Page
-[Timetable](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Timetable.png)
-  * Sign Up Page
-[Sign Up](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Sign%20Up.png)
+  * [Home Page](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Home.png)
+  * [Timetable](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Timetable.png)
+  * [Sign Up](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Sign%20Up.png)
 
 ### Features
 * Responsive on all devices sizes.
