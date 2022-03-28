@@ -3,7 +3,7 @@
 Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Meath to join a baby, a toddler, or a baby and toddler group. It will be targeted towards parents or caregivers who are looking to socialise their babies and toddlers, and who would also like to meet other parents or caregivers. The site will be useful for parents and cargivers to see when they can join the classes and where the classes are located.
 
 ### Responsive Mockup
-![Responsive Mockup](/assets/images/ReadMe_Images/Twinkle Stars Responsive Mockup.PNG)
+[Responsive Mockup](https://github.com/sblakedev/Project-1/blob/main/assets/images/ReadMe_Images/Twinkle%20Stars%20Responsive%20Mockup.PNG)
 
 ### User Experience (UX)
 
@@ -26,11 +26,11 @@ Twinkle Stars Baby and Toddler Groups is a site for parents and caregivers in Me
   * The large hero image is one of a man and child playing which reflects the aim of the classes that are advertised on the website.
 * Wireframes
   * Home Page
-![Home Page](/assets/images/Wireframes/Twinkle Stars Home.png)
+[Home Page](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Home.png)
   * Timetable Page
-![Timetable](/assets/images/Wireframes/Twinkle Stars Timetable.png]
+[Timetable](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Timetable.png)
   * Sign Up Page
-![Sign Up](/assets/images/Twinkle Stars Sign Up.png)
+[Sign Up](https://github.com/sblakedev/Project-1/blob/main/assets/images/Wireframes/Twinkle%20Stars%20Sign%20Up.png)
 
 ### Features
 * Responsive on all devices sizes.
@@ -102,10 +102,11 @@ e. As a visitor, I want to be able to easily get in contact with the organisatio
 * Family were asked to test the website on their own devices and report back with any bugs.
 
 ### Deployment
+
 #### GitHub Pages
 I used the following steps to deploy the project.
 
-1. Log in to Github and navigate to repositories.
+1. Log in to Github and navigate to the repository.
 2. On Github repository page, click on settings tab.
 3. Scroll down to Pages tab on the menu on the left hand side.
 4. Under Source, click the Branch drop down menu and select main.
@@ -115,14 +116,20 @@ I used the following steps to deploy the project.
 #### Forking the Repository
 To fork the repository in order to make a copy so as to view or make changes to the site without affecting the original repository, the following steps are to be used.
 
-1. Log in to Github and navigate to repositories.
+1. Log in to Github and navigate to the repository.
 2. On the right hand side, above the setting tab, click the 'Fork' button.
 3. There will now be a copy of the original respository in your GitHub account.
 
 #### Cloning the Repository
 To make a local clone, the following steps are to be used.
 
-1. Log in to Github and navigate to repositories.
+1. Log in to Github and navigate to the repository.
+2. Above the list of files, click the 'Code' button.
+3. Copy the link under HTTPS to clone using HTTPS.
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type git clone and then paste the link you copied earlier.
+7. Press enter. Your local clone has been created.
 
 
 ### Credits
