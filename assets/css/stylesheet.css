@@ -1,3 +1,5 @@
+
+
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300&display=swap');
 
 #header-background-color {
@@ -13,6 +15,8 @@ body {
     padding: 0;
 }
 
+/** Twinkle Stars Logo **/
+
 #logo {
     font-size: 200%;
     letter-spacing: 1px;
@@ -20,6 +24,8 @@ body {
     float: left;
     color: #3D151F;
 }
+
+/** Nav bar**/
 
 #menu {
     font-size: 150%;
@@ -62,6 +68,8 @@ ul {
     border-bottom: 1px solid #6bac7d;
 }
 
+/** Hero Image**/
+
 #hero-image {
     height: 300px;
     width: 100%;
@@ -76,6 +84,8 @@ ul {
     animation-fill-mode: forwards;
 }
 
+/** Hero image animation**/
+
 @keyframes hero-fade-in {
     from {
         opacity: 0;
@@ -85,6 +95,8 @@ ul {
         opacity: 0.5;
     }
 }
+
+/**Classes Section**/
 
 #our-classes {
     padding-top: 5%;
@@ -105,6 +117,8 @@ ul {
     padding-bottom: 5%;
 }
 
+/** Google Maps iframe**/
+
 #location {
     margin-left: 25px;
     margin-right: 25px;
@@ -114,6 +128,8 @@ ul {
 .iframe-location {
     width: 100%;
 }
+
+/** Footer Section**/
 
 footer {
     height: 75px;
@@ -159,6 +175,8 @@ footer>p {
     vertical-align: middle;
 }
 
+/**Timetable Section**/
+
 #timetable {
     padding-top: 5%;
     display: flex;
@@ -199,6 +217,8 @@ td {
     text-align: center;
 }
 
+/** Sign-up Section**/
+
 .form-section {
     display: flex;
     justify-content: center;
@@ -229,6 +249,8 @@ td {
     border: 1px solid #fafafa;
     border-radius: 2px;
 }
+
+/** Media Queries **/
 
 @media screen and (max-width:1022px) {
     #toddler-timetable {
