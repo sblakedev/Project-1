@@ -154,3 +154,4 @@ Colour Choice Resources
 #### Acknowledgements
 * My mentor for helpful feedback
 * Kera Cudmore and Nik on Slack for their feedback on the Peer Review channel.
+* Inspiration for ReadMe came mostly from the Code Institute Sample ReadMe as well as the Code Institue ReadMe template.
