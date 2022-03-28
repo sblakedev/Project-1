@@ -137,6 +137,7 @@ To make a local clone, the following steps are to be used.
 * Most issues in the code were resolved through searching through [Stack Overflow](https://stackoverflow.com/)
 * Markdown help came from [Mark Down Guide](https://www.markdownguide.org/basic-syntax/)
 * Icons are from [Font Awesome](https://fontawesome.com)
+* Sign up page code help came from the Code Institute Love Running Sign Up Page Challenge.
 
 #### Content
 * The hero image by William Fortunato was used under a Free to Use license. It was found on the [Pexels Website](https://www.pexels.com/photo/smiling-father-playing-with-indian-baby-girl-at-home-6392805/)
